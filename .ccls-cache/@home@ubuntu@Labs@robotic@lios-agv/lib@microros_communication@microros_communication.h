@@ -1,7 +1,0 @@
-#ifndef MICROROS_COMMUNICATION
-#define MICROROS_COMMUNICATION
-
-class MicroRosCommunication{
-  
-}
-#endif //MICROROS_COMMUNICATION
